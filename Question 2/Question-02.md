@@ -10,11 +10,10 @@ If the starting letter of S is consonant then you have to remove the first lette
 
 **For Example:** 
 
-Let consider a string S = "aaaba"
-After the first operation: S = "aabama", because we have removed 'a' which is a vowel and add "ma" to the end of the
-string.
-After the second operating: S = "abamama", same as the first operation.
-After the third operation: S = "bamamama", same as second operation.
+Let consider a string S = "aaaba" </br>
+After the first operation: S = "aabama", because we have removed 'a' which is a vowel and add "ma" to the end of the string.</br>
+After the second operating: S = "abamama", same as the first operation. </br>
+After the third operation: S = "bamamama", same as second operation.</br>
 After the fourth operation: S = "amamamamaaa", here we have removed 'b' and add "maaa" because before 'b' vowels has arrived 3 times that is why we have added 3 a's.
 
 We have to do these operations K times. After that, we have to print the count of the number of vowels and the number of
@@ -32,21 +31,24 @@ separately.
 
 **Output:**
 
-Print the number of vowels and then print the number of consonant space separately.
+Print the number of vowels and then print the number of consonant space separately.</br>
+
+
 Constraints:
-1 <= T <= 100
-1 <= N <= 10^5
-1 <= K <= 10^6
+1 <= T <= 100</br>
+1 <= N <= 10^5</br>
+1 <= K <= 10^6</br>
 All the character in the string contains the lowercase and uppercase alphabets.
 
 **Example:**
 
-Sample Input:
-2 
-5 7
-ababb
-5 7
-aabab
-Sample Output:
-9 6
+Sample Input: </br>
+2 </br>
+5 7</br>
+ababb</br>
+5 7</br>
+aabab</br>
+
+Sample Output:</br>
+9 6 </br>
 11 6
