@@ -9,6 +9,7 @@ First line of input contains number of test cases T. Then T test cases follow. I
 
 **Output:** 
 
+
 Output for every test case is the minimum cost to travel from start of array to end.
 
 **Your Task:**
