@@ -4,7 +4,7 @@ You are given an array of integers. You have to start from the first index and r
 
 **Input:** 
 
-First line of input contains number of test cases T. Then T test cases follow. In each test case, lrst line contains n, i.e.,number of integers in the array a[ ]. Second line of each test case contains n space separated integers of the array. Input will be read by driver code.
+First line of input contains number of test cases T. Then T test cases follow. In each test case, first line contains n, i.e.,number of integers in the array a[ ]. Second line of each test case contains n space separated integers of the array. Input will be read by driver code.
 
 
 **Output:** 
@@ -17,19 +17,22 @@ Your task is to complete the function min_cost(). This function takes array a[ ]
 
 Constraints: 
 
-T<=100 ; 
-4 <= n <= 10 ; 
-1 <= a[i] <= 10
+T<=100 ; </br> 
+4 <= n <= 10 ; </br>
+1 <= a[i] <= 10 </br>
 
 **Example:**
 
 Input :
-2 8 3
-1 2 5 10 100 200 20
-6 4
-3 2 1 5 6
+
+2 </br>
+8 </br>
+3 1 2 5 10 100 200 20 </br>
+6 </br>
+4 3 2 1 5 6
 
 Output:
-41
+
+41 </br>
 13
 
