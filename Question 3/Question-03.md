@@ -25,23 +25,23 @@ Your task: Your task is to complete the function is_possible(). This function ge
 rows n as argument. Return 1 if it is possible to start from top left and reach bottom right, else return 0. Returned value will be printed y driver code.
 
 
-**Constraints:**
+**Constraints:** </br> 
 
-T <= 200 ; 
-2 <= n <= 150 ; 
-0 <= a[i][j] <= 10
+T <= 200 ; </br> 
+2 <= n <= 150 ; </br> 
+0 <= a[i][j] <= 10 </br> 
 
-**Example:**
+**Example:** </br> 
 
 **Input:**
 
-2 
-4 
-3 0 0 2 0 2 1 1 1 0 0 0 0 4 0 0
-3 
-1 2 0 0 0 2 3 0 1
+2 </br> 
+4 </br> 
+3 0 0 2 0 2 1 1 1 0 0 0 0 4 0 0 </br> 
+3 </br> 
+1 2 0 0 0 2 3 0 1 </br> 
 
-**Output:**
+**Output:** </br> 
 
-1 0 
+1 </br> 0 
 
